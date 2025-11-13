@@ -1,47 +1,42 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
+# Introduzione
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Queste linee guida definiscono principi, processi e standard tecnici per la **realizzazione di Proof of Concept (POC) basati su Intelligenza Artificiale** all’interno della **Pubblica Amministrazione italiana**.
 
-## Getting Started
+L’obiettivo è fornire un **quadro di riferimento condiviso** che permetta a enti pubblici, fornitori e comunità open source di:
+- sviluppare soluzioni di IA in modo **trasparente, etico e riutilizzabile**;
+- garantire la **conformità alle normative** (GDPR, AI Act, accessibilità, sicurezza);
+- favorire la **collaborazione e il riuso** dei progetti, nel rispetto dei principi di **open source** e **open innovation**.
 
-Get started by **creating a new site**.
+## A chi si rivolgono
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Le linee guida sono pensate per:
+- **team tecnici** che sviluppano o sperimentano soluzioni di IA per la PA;
+- **responsabili di progetto** e **decisori** che devono valutare la fattibilità e i rischi di un POC;
+- **ricercatori e comunità open source** interessati a contribuire o riutilizzare componenti.
 
-### What you'll need
+## Come sono organizzate
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+La documentazione è suddivisa in sezioni tematiche:
 
-## Generate a new site
+1. **Contesto** – principi ispiratori, obiettivi e riferimenti normativi.
+2. **Principi** – valori fondamentali: trasparenza, etica, sicurezza, riuso.
+3. **Flusso di lavoro** – metodologia comune per ideare, sviluppare e validare un POC.
+4. **Standard tecnici** – raccomandazioni su architettura, interoperabilità e sicurezza.
+5. **Conformità legale** – requisiti e vincoli normativi.
+6. **Collaborazione** – come contribuire, mantenere e migliorare i POC.
+7. **Esempi e risorse** – modelli, casi studio e riferimenti utili.
 
-Generate a new Docusaurus site using the **classic template**.
+## Come contribuire
 
-The classic template will automatically be added to your project after you run the command:
+Questo progetto è **open source**: chiunque può proporre miglioramenti, segnalare problemi o condividere buone pratiche.  
+Consulta la sezione [Come contribuire](./06-collaborazione/come-contribuire.md) per conoscere il flusso di revisione e pubblicazione.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+---
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+> **Nota**  
+> Queste linee guida non impongono vincoli rigidi: forniscono un **percorso di riferimento flessibile**, da adattare al contesto e agli obiettivi specifici del progetto.
