@@ -33,8 +33,7 @@ La documentazione è suddivisa in sezioni tematiche:
 
 ## Come contribuire
 
-Questo progetto è **open source**: chiunque può proporre miglioramenti, segnalare problemi o condividere buone pratiche.  
-Consulta la sezione [Come contribuire](./06-collaborazione/come-contribuire.md) per conoscere il flusso di revisione e pubblicazione.
+Questo progetto è **open source**: chiunque può proporre miglioramenti, segnalare problemi o condividere buone pratiche.
 
 ---
 
