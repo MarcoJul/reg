@@ -1,0 +1,8 @@
+{
+  "label": "Sicurezza",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Aspetti di sicurezza specifici per sistemi basati su IA."
+  }
+}
